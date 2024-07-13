@@ -1,0 +1,6 @@
+PyPDF2
+pandas
+Pillow
+tqdm
+pymupdf
+customtkinter
