@@ -2,8 +2,3 @@
 
 This is a PDF splitter and email sender application using customtkinter.
 
-## Installation
-
-```sh
-pip install .
-```
